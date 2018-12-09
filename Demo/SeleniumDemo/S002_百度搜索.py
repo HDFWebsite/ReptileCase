@@ -1,6 +1,3 @@
-# THE WINTER IS COMING! the old driver will be driving who was a man of the world!
-# -*- coding: utf-8 -*- python 3.6.7, create time is 18-11-17 下午3:14 GMT+8
-
 import time
 from selenium import webdriver
 driver = webdriver.Chrome('C:\\Users\\Administrator\\Downloads\\chromedriver.exe')
